@@ -7,7 +7,7 @@
 | Artifact | Artifact is highly associated and related to specific methods or processes of development. Methods or processes can be project plans, business cases, or risk assessments.
 | Branch | масто което е Копие/Версия на основната програма върху който се работи паралелно с други бранчове|
 | CI | Continuous integration: every change is built and tested automatically. / Всяка промяна се изгражда и тества автоматично. |
-| Commit | |
+| Commit | Малка промяна в branch |
 | Container | A container is an isolated, stand-alone unit that encapsulates an application and all its dependencies. It runs consistently in any environment, independent of the host system.
 | Deployment | Putting a version of the service where users can reach it. / Поставяне на версия на услугата там, където потребителите я достигат. |
 | Health check | An endpoint that says whether the service is alive. / Адрес, който казва дали услугата е жива. |
