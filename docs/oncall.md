@@ -2,8 +2,8 @@
 
 | Week / Седмица | On call / Дежурен | Backup / Резерва |
 |---|---|---|
-| 4 | template | template |
-| 5 | TBD | TBD |
-| 6 | TBD | TBD |
-| 7 | TBD | TBD |
-| 8 | TBD | TBD |
+| 4 | TBD |TedoJabata |
+| 5 | TedoJabata | TBD |
+| 6 | TedoJabata | TBD |
+| 7 | TBD | TedoJabata |
+| 8 | TBD | TedoJabata|
