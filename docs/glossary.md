@@ -6,7 +6,7 @@
 |---|---|
 | Branch | масто което е Копие/Версия на основната програма върху който се работи паралелно с други бранчове|
 | CI | Continuous integration: every change is built and tested automatically. / Всяка промяна се изгражда и тества автоматично. |
-| Commit | |
+| Commit | Малка промяна в branch|
 | Deployment | Putting a version of the service where users can reach it. / Поставяне на версия на услугата там, където потребителите я достигат. |
 | Health check | An endpoint that says whether the service is alive. / Адрес, който казва дали услугата е жива. |
 | Issue | A task, bug or idea tracked on GitHub. / Задача, бъг или идея, проследявани в GitHub. |
