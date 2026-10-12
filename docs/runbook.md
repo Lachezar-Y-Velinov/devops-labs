@@ -4,16 +4,25 @@
 
 ## Start locally / Локално стартиране
 
-TODO
+python3.12 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements-dev.txt
+
+uvicorn app.main:app --reload
 
 ## Check that it works / Проверка, че работи
 
-TODO: which address do you open and what should you see? / кой адрес отваряте и какво трябва да видите?
-
+## кой адрес отваряте и какво трябва да видите?
+Приложението е на http://127.0.0.1:8000
 ## Run the tests / Тестове
 
-TODO
+pytest
+ruff check .
 
 ## When something breaks / Когато нещо се счупи
 
 TODO: the first three things you check. / първите три неща, които проверявате.
+Гледа се терминала какво показва
+Поглежда се къде е проблема
+Правим тестове
+
